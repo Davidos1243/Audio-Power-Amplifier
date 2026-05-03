@@ -48,7 +48,7 @@ Before moving to physical design, the entire circuit was simulated in LTspice to
 - Verified the required 60 W average power on the 8 Ω load.
 - **Calculated Efficiency:** `η ≈ 71%` (at maximum power output).
 
-*(Note: Add screenshots of LTspice schematic and Bode plots here)*
+
 
 ---
 
@@ -61,7 +61,7 @@ The schematic was transferred to KiCAD for PCB layout. The physical layout was d
 - **I/O:** Strategic placement of the 3.5mm jack, power terminals, and output connectors at the board edges.
 - Form Factor: 2-layer FR-4 board, 50.8 x 48.26 mm.
 
-*(Note: Add a 3D render or 2D image of your KiCAD PCB layout here)*
+
 
 ---
 
